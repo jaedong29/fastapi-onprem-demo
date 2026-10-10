@@ -1,7 +1,7 @@
-app: app-44ac8931d81a44a39da2
+app: app-d961a877f4df465397b9
 source:
   repo: https://github.com/jaedong29/fastapi-onprem-demo
-  commit: 974de3b0890196bbd5acd656ee0726b6cfd8ca53
+  commit: ac00f8522fd9dcb443c2154752bc3c0dfad6bae9
 build:
   dockerfile: Dockerfile
   runtime_hint: python3.12
